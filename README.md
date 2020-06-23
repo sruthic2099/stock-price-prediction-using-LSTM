@@ -7,5 +7,6 @@ The main purpose of the prediction is to reduce uncertainty associated to invest
 
 PROOF:
 
+<img width="920" alt="Capture" src="https://user-images.githubusercontent.com/59659248/85384956-59b86a00-b55f-11ea-81c4-b1a65f1580f5.PNG">
 
 
